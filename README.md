@@ -3,7 +3,7 @@
 Anggota Kelompok
 
 1. Rifky Kurniawan
-2.
+2. Harry Gunawan
 3.
 4.
 5.
@@ -24,9 +24,10 @@ Browser For Testing :
 1. Google Chrome
 
 Jobdesc Team :
-
-1. Rifky Kurniawan
-2.
-3.
-4.
-5.
+|No|Nama|Task|
+|--|---|---|
+|1| Rifky Kurniawan|  |
+|2| Harry Gunawan|   |
+|3|               |   |
+|4|              |    |
+|5|               |    |
