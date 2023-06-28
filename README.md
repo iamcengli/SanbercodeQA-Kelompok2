@@ -8,7 +8,7 @@ Anggota Kelompok
 4.
 5.
 
-URL to Test :
+URL to Test : https://www.demoblaze.com/
 
 Test Case :
 
