@@ -26,7 +26,7 @@ Browser For Testing :
 Jobdesc Team :
 |No|Nama|Task|
 |--|---|---|
-|1| Rifky Kurniawan|  |
+|1| Rifky Kurniawan| Sign Up, Log In, Log Out |
 |2| Harry Gunawan|   |
 |3|               |   |
 |4|              |    |
