@@ -12,7 +12,7 @@ URL to Test : https://www.demoblaze.com/
 
 Test Case :
 
-Test Plan Document :
+Test Plan Document : https://docs.google.com/document/d/14eV99FL9Fjah4RTMkHA_2MbRU1meRwbruXmgJYtyQx4/edit?usp=sharing
 
 Automation Test Used :
 
