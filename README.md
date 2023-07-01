@@ -4,7 +4,7 @@ Anggota Kelompok
 
 1. Rifky Kurniawan
 2. Harry Gunawan
-3.
+3. Mutia Azizah
 4.
 5.
 
@@ -28,6 +28,6 @@ Jobdesc Team :
 |--|---|---|
 |1| Rifky Kurniawan| Sign Up, Log In, Log Out |
 |2| Harry Gunawan|   |
-|3|               |   |
+|3| Mutia Azizah |place order|
 |4|              |    |
 |5|               |    |
