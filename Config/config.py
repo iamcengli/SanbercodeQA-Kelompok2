@@ -11,8 +11,8 @@ class TestData:
     CM_MESSAGE = "This website help us!"
 
     #DATA
-    VALID_USERNAME = "iniadalahusernameyangvalid"
-    VALID_PASSWORD = "passwordyangvalid"
+    VALID_USERNAME = "sanbercode46group4"
+    VALID_PASSWORD = "seleniumtestingpytest"
     # VALID_USERNAME = "kjks"
     # VALID_PASSWORD = "kjks"
     INVALID_USERNAME = "ADFSDCASDCASDCASDC"
