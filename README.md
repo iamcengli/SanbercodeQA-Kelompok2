@@ -21,7 +21,7 @@ Anggota Kelompok
 2. Harry Gunawan
 3. Mutia Azizah
 4. Ahmad Riyan R
-5.
+5.Neng Yessi NE
 
 URL to Test : https://www.demoblaze.com/
 
@@ -44,4 +44,4 @@ Jobdesc Team :
 |2| Harry Gunawan| Contact Menu | |
 |3| Mutia Azizah |place order| |
 |4| Ahmad Riyan R |Cart Page| |
-|5| | | |
+|5| Neng Yessi |add to cart | |
