@@ -13,6 +13,7 @@ class LoginPage(BasePage):
     USERNAME = (By.XPATH, "//*[@id='loginusername']")
     PASSWORD = (By.XPATH, "//*[@id='loginpassword']")
     LOGIN_BUTTON = (By.XPATH, "//*[@id='logInModal']/div/div/div[3]/button[2]")
+    WELCOME = (By.XPATH,"//*[@id='nameofuser']")
 
 
     

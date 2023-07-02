@@ -3,16 +3,18 @@ import pytest
 import time
 from Config.config import TestData
 from Tests.test_base import BaseTest
+from Pages.BasePage import Alert
 
-class Test_SignUpPage(BaseTest):
+class Test_LoginPage(BaseTest):
 
     #TC ID PS1-001
     def test_success_Login(self):
         self.Login = LoginPage(self.driver)
         self.Login.do_open_login_page()
         self.Login.do_send_message(TestData.VALID_USERNAME, TestData.VALID_PASSWORD)
-        time.sleep(1.5)
-
+        time.sleep(2)
+        # Validasi Login 😪
+        
     #TC ID PS1-002
     def test_failed_login_invalid_password(self):
         self.Login = LoginPage(self.driver)

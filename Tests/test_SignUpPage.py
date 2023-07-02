@@ -3,6 +3,7 @@ import pytest
 import time
 from Config.config import TestData
 from Tests.test_base import BaseTest
+from Pages.BasePage import Alert
 
 class Test_SignUpPage(BaseTest):
 
