@@ -10,10 +10,14 @@ class TestData:
     CM_NAME = "Harry"
     CM_MESSAGE = "This website help us!"
 
-    #SIGN UP DATA
-    SU_VALID_USERNAME = "iniadalahusernameyangvalid"
-    SU_VALID_PASSWORD = "passwordyangvalid"
-    SU_INVALID_PASSWORD = "1"
-    SU_EXISTING_USERNAME = "123"
-    SU_EXISTING_PASSWORD = "123"
-    
+    #DATA
+    VALID_USERNAME = "iniadalahusernameyangvalid"
+    VALID_PASSWORD = "passwordyangvalid"
+    # VALID_USERNAME = "kjks"
+    # VALID_PASSWORD = "kjks"
+    INVALID_USERNAME = "ADFSDCASDCASDCASDC"
+    INVALID_PASSWORD = "1"
+    EXISTING_USERNAME = "123"
+    EXISTING_PASSWORD = "123"
+    UNEXISTING_USERNAME = "kjkszpjsksksksks"
+    UNEXISTING_PASSWORD = "kjkszpjsksksksks"
