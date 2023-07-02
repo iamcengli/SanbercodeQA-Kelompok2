@@ -25,7 +25,7 @@ Anggota Kelompok
 
 URL to Test : https://www.demoblaze.com/
 
-Test Case :
+Test Case : https://docs.google.com/spreadsheets/d/1wFVJnkItNIwND8Pbps3GpZiJjlYTQw1NlUeki7MGJPA/edit?usp=sharing
 
 Test Plan Document : https://docs.google.com/document/d/14eV99FL9Fjah4RTMkHA_2MbRU1meRwbruXmgJYtyQx4/edit?usp=sharing
 
