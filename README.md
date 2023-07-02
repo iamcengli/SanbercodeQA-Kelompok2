@@ -5,7 +5,7 @@ Anggota Kelompok
 1. Rifky Kurniawan
 2. Harry Gunawan
 3. Mutia Azizah
-4.
+4. Ahmad Riyan R
 5.
 
 URL to Test : https://www.demoblaze.com/
@@ -29,5 +29,5 @@ Jobdesc Team :
 |1| Rifky Kurniawan| Sign Up, Log In, Log Out |
 |2| Harry Gunawan|   |
 |3| Mutia Azizah |place order|
-|4|              |    |
+|4| Ahmad Riyan R |Cart Page|
 |5|               |    |
