@@ -38,10 +38,10 @@ Browser For Testing :
 1. Google Chrome
 
 Jobdesc Team :
-|No|Nama|Task|
-|--|---|---|
-|1| Rifky Kurniawan| Sign Up, Log In, Log Out |
-|2| Harry Gunawan| Contact Menu |
-|3| Mutia Azizah |place order|
-|4| Ahmad Riyan R |Cart Page|
-|5| | |
+|No|Nama|Task|Link Automation Video |
+|--|---|---|-----|
+|1| Rifky Kurniawan| Sign Up, Log In, Log Out | https://drive.google.com/drive/folders/1eUnbJCoPhb1_1XFHanCbEMV4L_Puizs8?usp=sharing |
+|2| Harry Gunawan| Contact Menu | |
+|3| Mutia Azizah |place order| |
+|4| Ahmad Riyan R |Cart Page| |
+|5| | | |
