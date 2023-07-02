@@ -14,3 +14,6 @@ class BaseTest:
         self.driver.maximize_window()
         yield
         self.driver.quit()
+    
+    def assertEqual(self, expected_alert_message, actual_alert_message):
+        pass

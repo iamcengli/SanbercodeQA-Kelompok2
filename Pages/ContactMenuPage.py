@@ -18,8 +18,8 @@ class ContactMenuPage(BasePage):
         time.sleep(2)
         # self.driver.get(TestData.BASE_URL)
         
-    # def is_contact_menu_link_exist(self):
-    #     return self.is_visble(self.CONTACT_MENU_LINK)
+    def is_alert_message_equal(self, alert_message):
+        return self.get_message(self.alert_message)
         
     def do_open_contact_menu(self):
         self.do_click(self.CONTACT_MENU_LINK)
@@ -29,3 +29,4 @@ class ContactMenuPage(BasePage):
         self.do_send_keys(self.NAME, name)
         self.do_send_keys(self.MESSAGE, message)
         self.do_click(self.SEND_MESSAGE_BUTTON)
+        
