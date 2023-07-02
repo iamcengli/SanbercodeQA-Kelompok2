@@ -1,4 +1,19 @@
-﻿# SanbercodeQA-Kelompok4
+﻿# How to run
+##  Install Requirements
+
+Install Selenium
+```pip install selenium```
+
+Install Driver
+```pip install webdriver-manager```
+
+Install Pytest
+```pip install pytest```
+
+Run Automation test
+```pytest ./Tests/test_ContactMenuPage.py```
+
+# SanbercodeQA-Kelompok4
 
 Anggota Kelompok
 
