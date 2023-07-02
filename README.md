@@ -11,7 +11,7 @@ Install Pytest
 ```pip install pytest```
 
 Run Automation test
-```pytest ./Tests/test_ContactMenuPage.py```
+```pytest ./Tests/{filename.py}```
 
 # SanbercodeQA-Kelompok4
 
@@ -31,8 +31,7 @@ Test Plan Document : https://docs.google.com/document/d/14eV99FL9Fjah4RTMkHA_2Mb
 
 Automation Test Used :
 
-1. Selenium
-2. Cypress
+1. Selenium (PyTest)
 
 Browser For Testing :
 
