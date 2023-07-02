@@ -15,8 +15,6 @@ class LogOut(BasePage):
     LOGIN_BUTTON = (By.XPATH, "//*[@id='logInModal']/div/div/div[3]/button[2]")
     WELCOME = (By.XPATH,"//*[@id='nameofuser']")
     BUTTON_LOGOUT = (By.XPATH, "//*[@id='logout2']")
-
-
     
     def __init__(self, driver):
         super().__init__(driver)
