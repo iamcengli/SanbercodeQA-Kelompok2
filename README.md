@@ -27,7 +27,7 @@ Jobdesc Team :
 |No|Nama|Task|
 |--|---|---|
 |1| Rifky Kurniawan| Sign Up, Log In, Log Out |
-|2| Harry Gunawan|   |
+|2| Harry Gunawan| Contact Menu |
 |3| Mutia Azizah |place order|
 |4| Ahmad Riyan R |Cart Page|
-|5|               |    |
+|5| | |
