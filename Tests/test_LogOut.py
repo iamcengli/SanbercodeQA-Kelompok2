@@ -15,6 +15,7 @@ class Test_LogOut(BaseTest):
         time.sleep(2)
         self.logOut.do_click_log_out()
         time.sleep(2)
-
         # Validasi Logout 😪😪😪😪😪😪😪😪😪
+        flag = self.logOut.get_login_link()
+        assert flag
         

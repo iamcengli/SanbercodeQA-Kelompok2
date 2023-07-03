@@ -24,9 +24,9 @@ class BasePage():
     #     element = WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(by_locator))
     #     return element.text
         
-    # def is_visble(self, by_locator):
-    #     element = WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(by_locator))
-    #     return bool(element)
+    def is_visble(self, by_locator):
+        element = WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(by_locator))
+        return bool(element)
         
     # def get_title(self, by_locator):
     #     element = WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(by_locator))
