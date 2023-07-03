@@ -44,4 +44,4 @@ Jobdesc Team :
 |2| Harry Gunawan| Contact Menu | https://drive.google.com/file/d/1ZtKAJMmqtj6PVcuVf0t68dJ2m3OxtSsm/view?usp=sharing |
 |3| Mutia Azizah |place order|https://drive.google.com/file/d/1tgQOsdGz5AuhkLzNokjtu_qepgPKzg83/view?usp=sharing |
 |4| Ahmad Riyan R |Cart Page| |
-|5| Neng Yessi |add to cart | https://drive.google.com/drive/folders/1GdBV1Y8wUxiLO80_QpyrFQ0cU9eYWKET?usp=drive_link|
+|5| Neng Yessi |add to cart | https://drive.google.com/file/d/1gpOsqxF6gvdu1BJfDkYtZrr3sss5FRtK/view?usp=sharing|
