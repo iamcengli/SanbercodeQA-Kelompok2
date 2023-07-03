@@ -42,6 +42,6 @@ Jobdesc Team :
 |--|---|---|---|
 |1| Rifky Kurniawan| Sign Up, Log In, Log Out | https://drive.google.com/drive/folders/1eUnbJCoPhb1_1XFHanCbEMV4L_Puizs8?usp=sharing |
 |2| Harry Gunawan| Contact Menu | |
-|3| Mutia Azizah |place order| |
+|3| Mutia Azizah |place order|https://drive.google.com/file/d/1tgQOsdGz5AuhkLzNokjtu_qepgPKzg83/view?usp=sharing |
 |4| Ahmad Riyan R |Cart Page| |
 |5| Neng Yessi |add to cart | |
