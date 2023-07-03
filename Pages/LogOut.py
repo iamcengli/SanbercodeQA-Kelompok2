@@ -30,3 +30,6 @@ class LogOut(BasePage):
 
     def do_click_log_out(self):
         self.do_click(self.BUTTON_LOGOUT)
+        
+    def get_login_link(self):
+        return self.is_visble(self.LOGIN_LINK)
